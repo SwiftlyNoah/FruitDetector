@@ -1,5 +1,6 @@
+<img src="https://github.com/user-attachments/assets/374e33c4-fd44-4bd2-91ee-c8eca621a847" alt="App Icon" width="80" height="80">
+
 # FruitDetector
-<img src="https://github.com/SwiftlyNoah/FruitDetector/assets/66573062/e8c7423e-fde0-451c-b741-073ed940a929.png" width="200" height="200" />
 
 Fruit Detector is a bare-bones SwiftUI app that runs a CNN that can classify a fruit from one of the following categories:
 - Apple
